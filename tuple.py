@@ -1,0 +1,5 @@
+tuplex=(1,2,22,34,56,12,5)
+print(tuplex)
+tuplex=(21,2,121,221,2112,1213,13,131)
+tuplex=(tuplex*tuplex)
+print(tuplex)
